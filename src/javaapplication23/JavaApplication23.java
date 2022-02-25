@@ -4,7 +4,7 @@ package javaapplication23;
 
 /**
  * This class +++ Insert class description here +++ 
- * @author Lovepreet Singh
+ * @author Lovepreet Singhmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
  */
 public class JavaApplication23 {
 
